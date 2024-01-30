@@ -34,4 +34,4 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+111111111111111111111111111}  
